@@ -52,7 +52,7 @@ src/
 ├── assets/
 └── styles/
 ⚙️ Installation
-git clone https://github.com/your-username/autoreviver.git
+git clone https://github.com/iqra-j6/autoreviver.git
 cd autoreviver
 npm install
 npm run dev
